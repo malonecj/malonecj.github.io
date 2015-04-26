@@ -20,9 +20,10 @@ At Adazzle, we've been working on a cool project for the past couple of months a
 
 Its available both from npm and bower
 Simply run 
-```sh
+
+```
 npm install react-data-grid
-# or
+or
 bower install react-data-grid
 ```
 
