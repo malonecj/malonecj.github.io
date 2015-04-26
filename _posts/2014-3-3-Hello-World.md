@@ -6,6 +6,8 @@ published: true
 
 [http://malonecj.github.io/backbone_sample_playlist_app/](http://malonecj.github.io/backbone_sample_playlist_app/)
 
+[View Code](https://github.com/malonecj/backbone_sample_playlist_app)
+
 First post. Hello!! [This](http://malonecj.github.io/backbone_sample_playlist_app/) is a small sample appliction I wrote about a year ago while learning about Backbone Marionette and trying to find out the best way to go about building an application with it. Much of the application structure is based upon the ideas I read about in the Marionette books written by [David Sulc](https://leanpub.com/marionette-gentle-introduction)  
 
 ![_config.yml](https://cloud.githubusercontent.com/assets/1432798/7338798/4a243652-ec4f-11e4-9267-de765909a8dc.png)
