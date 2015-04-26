@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Introducing React Data Grid
@@ -29,5 +29,3 @@ bower install react-data-grid
 ```
 
 Check out the examples and see how you get on
-
-
