@@ -3,6 +3,7 @@ layout: post
 title: Introducing React Data Grid
 published: true
 ---
+![screen shot 2015-04-26 at 21 44 30](https://cloud.githubusercontent.com/assets/1432798/7339184/7a1fa720-ec5d-11e4-99f9-2f52bce26f9d.png)
 
 At Adazzle, we've been working on a cool project for the past couple of months and we feel its finally ready for public use. It's a Javascript spreadsheet component built with React. We've been using it internally for quite some time, but have only recently gotten around to writing some decent [documentation](http://adazzle.github.io/react-data-grid/) and examples for it, as well as building up a proper test suite.
 
