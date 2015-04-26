@@ -17,7 +17,9 @@ The application itself is a simple playlist app, using the [Spotify Web API](htt
 You can view and download the code for the application [here](https://github.com/malonecj/backbone_sample_playlist_app). To run it yourself, 
 clone the repository and run
  
+ ```
  npm install
  grunt serve
+ ```
  
  which will fire up a local server and the application.
