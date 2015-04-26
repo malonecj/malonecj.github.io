@@ -2,12 +2,6 @@
 published: true
 ---
 
----
-layout: post
-title: Introducing React Data Grid
-published: true
----
-
 [https://github.com/adazzle/react-data-grid/](React Data Grid)
 
 
